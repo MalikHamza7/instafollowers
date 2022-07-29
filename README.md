@@ -27,14 +27,5 @@ $ bash insfollow.sh
 [![IMAGE ALT TEXT HERE](https://github.com/SulimanHacker1/instafollowers/blob/main/image.PNG)](https://www.youtube.com/watch?v=U0JFbFwM_Rc)
 
 
-# Contact Us:
 
-✅ whatsapp +923439602945
 
-✅ Youtube -https://www.youtube.com/c/SulimanChannel0
-
-✅instagram -https://www.instagram.com/sulimanhacker0/
-
-✅ Telegram -https://t.me/Cardingfree01
-
-✅ website -https://sulimanhacker.blogspot.com
